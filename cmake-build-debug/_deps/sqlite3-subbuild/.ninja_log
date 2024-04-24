@@ -1,0 +1,21 @@
+# ninja log v5
+0	10	1713948765588378787	/Users/happy394/CLionProjects/untitled/cmake-build-debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-mkdir	346aadb900a4dc9f
+3575	3587	1713948769165559033	CMakeFiles/sqlite3-populate-complete	1deaaeb804c53cc4
+3541	3549	1713948769127440803	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-configure	a53d29a1a53b7c38
+10	3522	1713948769099855170	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-download	e98c144955fac08c
+3522	3532	1713948769109895142	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-update	2d1994234d09033a
+3549	3558	1713948769136128571	/Users/happy394/CLionProjects/untitled/cmake-build-debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-build	75df8bd3dbcea5f2
+10	3522	1713948769099855170	/Users/happy394/CLionProjects/untitled/cmake-build-debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-download	e98c144955fac08c
+3522	3532	1713948769109895142	/Users/happy394/CLionProjects/untitled/cmake-build-debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-update	2d1994234d09033a
+0	10	1713948765588378787	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-mkdir	346aadb900a4dc9f
+3567	3575	1713948769153471191	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-test	6c33db40ae8d1d2e
+3532	3540	1713948769118672869	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-patch	3e07c2f744dac452
+3541	3549	1713948769127440803	/Users/happy394/CLionProjects/untitled/cmake-build-debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-configure	a53d29a1a53b7c38
+3567	3575	1713948769153471191	/Users/happy394/CLionProjects/untitled/cmake-build-debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-test	6c33db40ae8d1d2e
+3549	3558	1713948769136128571	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-build	75df8bd3dbcea5f2
+3558	3567	1713948769145053339	/Users/happy394/CLionProjects/untitled/cmake-build-debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-install	2ebcd97ba0465d2d
+3575	3587	1713948769165559033	/Users/happy394/CLionProjects/untitled/cmake-build-debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-done	1deaaeb804c53cc4
+3575	3587	1713948769165559033	/Users/happy394/CLionProjects/untitled/cmake-build-debug/_deps/sqlite3-subbuild/CMakeFiles/sqlite3-populate-complete	1deaaeb804c53cc4
+3575	3587	1713948769165559033	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-done	1deaaeb804c53cc4
+3558	3567	1713948769145053339	sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-install	2ebcd97ba0465d2d
+3532	3540	1713948769118672869	/Users/happy394/CLionProjects/untitled/cmake-build-debug/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src/sqlite3-populate-stamp/sqlite3-populate-patch	3e07c2f744dac452
